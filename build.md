@@ -1,6 +1,5 @@
-Music: 6.31.55  
-Instagram: 275.0.0.27.98  
 Twitch: 16.9.1  
+YouTube: 18.45.43  
 Twitter: 10.21.1-release.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
